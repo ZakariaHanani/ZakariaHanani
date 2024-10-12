@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Zakaria Hanani</h1>
 <h3 align="center">Software Engineering Student</h3>
 
