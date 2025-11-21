@@ -12,14 +12,14 @@ Currently working on grid computing.
 ## EXPERIENCE
 I've spent most of my time as a developer working with:
 
-- <img src="https://img.shields.io/badge/Java-white?labelColor=black" alt="Java"> <img src="https://img.shields.io/badge/j2ee, Spring Boot, Android-341235" > 
-- <img src="https://img.shields.io/badge/Linux-white?labelColor=black" alt="Linux"><img src="https://img.shields.io/badge/Arch Linux, CLI, Bash -47000E" >  
+- <img src="https://img.shields.io/badge/Java-white?labelColor=341235" alt="Java"> <img src="https://img.shields.io/badge/j2ee, Spring Boot, Android-341235" > 
+- <img src="https://img.shields.io/badge/Linux-white?labelColor=47000E" alt="Linux"><img src="https://img.shields.io/badge/Arch Linux, CLI, Bash -47000E" >  
 
 I also have experience with:
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/Django-001F00" >   
-- <img src="https://img.shields.io/badge/Flutter-white?labelColor=black" alt="Flutter"><img src="https://img.shields.io/badge/Flutter mobile apps-000F24" >   
-- <img src="https://img.shields.io/badge/PHP-white?labelColor=black" alt="PHP"><img src="https://img.shields.io/badge/Codeigniter-5C1200" >    
+- <img src="https://img.shields.io/badge/Python-white?labelColor=001F00" alt="Python"> <img src="https://img.shields.io/badge/Django-001F00" >   
+- <img src="https://img.shields.io/badge/Flutter-white?labelColor=000F24" alt="Flutter"><img src="https://img.shields.io/badge/Flutter mobile apps-000F24" >   
+- <img src="https://img.shields.io/badge/PHP-white?labelColor=5C1200" alt="PHP"><img src="https://img.shields.io/badge/Codeigniter-5C1200" >    
 
 
 ### 📊 GitHub Stats
