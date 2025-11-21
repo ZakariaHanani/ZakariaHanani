@@ -13,8 +13,6 @@
 ### 🌐 Connect
 <p align="left">
 <a href="https://linkedin.com/in/zakariahanani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://fb.com/zakariahanani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/></a>
-<a href="https://instagram.com/zakariahanani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
 </p>
 
 ---
