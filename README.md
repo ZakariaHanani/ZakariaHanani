@@ -1,34 +1,26 @@
-<h1 align="center">Yo! I'm Zakaria 👋</h1>
-<h3 align="center">Java enjoyer • Linux user • Software Engineering student</h3>
+<img width="1500" height="277" alt="Image" src="https://github.com/user-attachments/assets/a8c2373c-25e1-41a2-8772-73fe2fa61089" />
 
-- 🧠 Working on **Java RMI**, distributed systems & grid computing  
-- 🐧 Daily driver: **Arch Linux** (yes… I use Arch btw)
-- ☕ Java is not just my favorite language — it's my personality
-- 🛠️ Main stack: **Java • IntelliJ IDEA • Git • Linux • Python**
-- 📫 Reach me at **zakariahanani20@gmail.com**
-- ⚡ Fun fact: I optimize my workflow more than my code (sometimes)
 
----
+## ABOUT ME
+Java • Software Engineering • Arch Linux
 
-### 🌐 Connect
-<p align="left">
-<a href="https://linkedin.com/in/zakariahanani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-</p>
+I care about clean code, efficient workflows, and learning by building.
+Open-source and Linux shape how I work and think.
+Currently working on grid computing.
 
----
 
-### ⚙️ Languages & Tools I Actually Use
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-</p>
+## EXPERIENCE
+I've spent most of my time as a developer working with:
 
----
+- <img src="https://img.shields.io/badge/Java-white?labelColor=black" alt="Java"> <img src="https://img.shields.io/badge/j2ee, Spring Boot, Android-341235" > 
+- <img src="https://img.shields.io/badge/Linux-white?labelColor=black" alt="Linux"><img src="https://img.shields.io/badge/Arch Linux, CLI, Bash -47000E" >  
+
+I also have experience with:
+
+- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/Django-001F00" >   
+- <img src="https://img.shields.io/badge/Flutter-white?labelColor=black" alt="Flutter"><img src="https://img.shields.io/badge/Flutter mobile apps-000F24" >   
+- <img src="https://img.shields.io/badge/PHP-white?labelColor=black" alt="PHP"><img src="https://img.shields.io/badge/Codeigniter-5C1200" >    
+
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ZakariaHanani&theme=react&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZakariaHanani&theme=codeSTACKr&show_icons=true)
