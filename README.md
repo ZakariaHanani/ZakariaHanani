@@ -33,4 +33,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ZakariaHanani&theme=dracula&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ZakariaHanani&theme=react&show_icons=true)
