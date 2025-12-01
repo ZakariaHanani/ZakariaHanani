@@ -1,6 +1,5 @@
 <img width="1500" height="277" alt="Image" src="https://github.com/user-attachments/assets/a8c2373c-25e1-41a2-8772-73fe2fa61089" />
 
-
 ## ABOUT ME
 Java • Software Engineering • Arch Linux
 
@@ -22,11 +21,11 @@ I also have experience with:
 - <img src="https://img.shields.io/badge/PHP-grey?" alt="PHP"><img src="https://img.shields.io/badge/Codeigniter-5C1200" >    
 
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZakariaHanani&theme=codeSTACKr&show_icons=true" 
-    alt="GitHub stats" 
-    width="50%"
-  />
-</div>
+<!--![Trophies](https://github-profile-trophy.vercel.app/?username=ZakariaHanani&theme=radical)
 
+<!--<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaHanani&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true"
+    width="60%"
+  />
+</div> 
