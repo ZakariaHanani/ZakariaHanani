@@ -5,7 +5,6 @@ Java • Software Engineering • Arch Linux
 
 I care about clean code, efficient workflows, and learning by building.
 Open-source and Linux shape how I work and think.
-Currently working on grid computing.
 
 
 ## EXPERIENCE
