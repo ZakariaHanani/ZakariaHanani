@@ -36,9 +36,6 @@ I've also worked with:
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
 </p>
 
 ---
